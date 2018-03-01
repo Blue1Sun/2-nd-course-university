@@ -1,0 +1,5 @@
+C:\Users\Наталия\Documents\Visual Studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\bin\Release\DoorKeyAndArms.exe.config
+C:\Users\Наталия\Documents\Visual Studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\bin\Release\DoorKeyAndArms.exe
+C:\Users\Наталия\Documents\Visual Studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\bin\Release\DoorKeyAndArms.pdb
+C:\Users\Наталия\Documents\Visual Studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\obj\Release\DoorKeyAndArms.exe
+C:\Users\Наталия\Documents\Visual Studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\obj\Release\DoorKeyAndArms.pdb

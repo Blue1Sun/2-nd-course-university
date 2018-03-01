@@ -1,0 +1,6 @@
+c:\users\наталия\documents\visual studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\bin\Debug\DoorKeyAndArms.exe.config
+c:\users\наталия\documents\visual studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\bin\Debug\DoorKeyAndArms.exe
+c:\users\наталия\documents\visual studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\bin\Debug\DoorKeyAndArms.pdb
+c:\users\наталия\documents\visual studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\obj\Debug\DoorKeyAndArms.csprojResolveAssemblyReference.cache
+c:\users\наталия\documents\visual studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\obj\Debug\DoorKeyAndArms.exe
+c:\users\наталия\documents\visual studio 2013\Projects\DoorKeyAndArms\DoorKeyAndArms\obj\Debug\DoorKeyAndArms.pdb
